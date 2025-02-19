@@ -1,1 +1,0 @@
-# k8-s-end-to-end-project
